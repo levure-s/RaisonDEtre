@@ -108,6 +108,7 @@ img {
 .talents-table td:nth-of-type(1) {
   white-space: nowrap;
   padding-right: 1em;
+  padding-bottom: 1em;
 }
 
 .cast .text_container {
